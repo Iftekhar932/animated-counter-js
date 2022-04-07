@@ -5,8 +5,8 @@
 }
 body {
   font-family: "Helvetica Neue", Helvetica, Arial;
-  background: lightskyblue
-    url("https://i.pinimg.com/originals/3c/24/46/3c24462450c2a902bf7e18f3d9aada81.jpg");
+  /* background: lightskyblue
+    url("https://i.pinimg.com/originals/3c/24/46/3c24462450c2a902bf7e18f3d9aada81.jpg"); */
   color: #fff;
   display: flex;
   flex-direction: column;
