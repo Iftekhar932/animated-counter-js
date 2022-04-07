@@ -1,1 +1,0 @@
-# animated-counter-js
